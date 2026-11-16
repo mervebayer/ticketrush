@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TicketRush.Api/TicketRush.Api.csproj" />
+    <Project Path="src/TicketRush.Application/TicketRush.Application.csproj" />
+    <Project Path="src/TicketRush.Domain/TicketRush.Domain.csproj" />
+    <Project Path="src/TicketRush.Infrastructure/TicketRush.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TicketRush.IntegrationTests/TicketRush.IntegrationTests.csproj" />
+    <Project Path="tests/TicketRush.UnitTests/TicketRush.UnitTests.csproj" />
+  </Folder>
+</Solution>
